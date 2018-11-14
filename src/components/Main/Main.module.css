@@ -1,0 +1,20 @@
+.Main {
+  background-color: #303030;
+  height: 400px;
+  width: 100%;
+  padding-top: 60px;
+}
+.data {
+  padding-top: 100px;
+  font-size: 60px;
+  text-align: center;
+  color: #63d1f4;
+  font-weight: 700;
+}
+
+.data1 {
+  padding-top: 20px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}

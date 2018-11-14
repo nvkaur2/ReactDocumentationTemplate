@@ -1,0 +1,17 @@
+.App {
+  height: 80px;
+  background-color: #202020;
+  display: flex;
+  line-height: 40px;
+  position: fixed;
+  width: 100%;
+  margin-left: auto;
+}
+.Content {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: 27% 27% 27%;
+  grid-template-rows: auto auto auto auto;
+  justify-content: center;
+  justify-items: center;
+}

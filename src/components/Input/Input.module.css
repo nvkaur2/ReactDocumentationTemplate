@@ -1,0 +1,14 @@
+.Input {
+  border-radius: 2px;
+  background-color: #202020;
+  border-color: transparent;
+}
+
+.Input::placeholder {
+  font-size: 16px;
+}
+
+.Input:hover {
+  background-color: #484848;
+  color: black;
+}

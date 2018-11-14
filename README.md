@@ -1,2 +1,0 @@
-# ReactDocumentationTemplate
-Created with CodeSandbox

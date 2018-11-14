@@ -1,0 +1,10 @@
+.Container {
+  background-color: #181818;
+  display: flex;
+  flex-direction: column;
+  height: 180px;
+  align-items: center;
+  align-content: space-around;
+  padding: 20px;
+  flex-wrap: wrap;
+}

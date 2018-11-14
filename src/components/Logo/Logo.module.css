@@ -1,0 +1,11 @@
+.Logo {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.Img {
+  height: 35px;
+  width: 40px;
+  padding-top: 20px;
+  margin-left: 100px;
+}

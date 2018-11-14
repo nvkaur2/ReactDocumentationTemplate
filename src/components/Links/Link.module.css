@@ -1,0 +1,9 @@
+.Link {
+  margin-left: 40px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+.Link:hover {
+  color: #63d1f4;
+}

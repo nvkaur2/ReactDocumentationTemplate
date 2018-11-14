@@ -1,0 +1,8 @@
+.Nav {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr 4fr 6fr 6fr;
+}
+
+.item5 {
+  align-self: end;
+}
